@@ -1,0 +1,48 @@
+body{
+  margin:50px 0 0 0 ;
+}
+h1,h2,h3,h4{
+  text-transform: uppercase;
+}
+.jumbotron{
+  text-align: center;
+}
+#Jbox{
+  height: 150px;
+   width: 150px;
+   background: #2ecc71;
+   color: #fff;
+   line-height: 100px;
+   margin: 100px auto 0;
+   opacity: 0.5;
+   position: relative;
+   padding-top: 30px;
+   padding-left:30px;
+
+}
+.btn-danger{
+  border-radius: 1px
+}
+.alert-danger, .alert-warning{
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+   p{
+  font-size: small;
+}
+#error{
+  font-size: small;
+}
+.form-control{
+  text-align:center;
+  color:#2ecc71;
+  font-size:20px;
+  text-transform: uppercase;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  text-align: center;
+}
